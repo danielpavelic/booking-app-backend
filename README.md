@@ -47,7 +47,7 @@ npm install
 To start the express server, run the following
 
 ```bash
-npm run start
+npm start
 ```
 
 Open [http://localhost:3000/rooms](http://localhost:3000/rooms) for all Rooms.
@@ -76,5 +76,5 @@ DB_NAME = dbRoomBooking
 
 Step 7: To start the express server, run the following
 ```bash
-npm run start
+npm start
 ```
